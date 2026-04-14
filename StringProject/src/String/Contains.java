@@ -5,9 +5,9 @@ public class Contains {
 	public static void main(String[] args) {
 		
 		
-		String name = "Welcome to india";
+		String s = "Welcome";
 		
-System.out.println(" india ");
+System.out.println(s.contains("welcom"));
 
 	}
 
